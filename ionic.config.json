@@ -1,0 +1,7 @@
+{
+  "name": "tokaLab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
